@@ -1,7 +1,5 @@
 # book-search
 
-## This README.md was created using the described application below 
-
 ## Description
 This is a code refactor that changed a rest API into a GraphQL api. It has a login, signup, saved books, and search books page. 
 
